@@ -1,3 +1,7 @@
 Massively Multipleplayer Online Roleplaying Game with the use of spacetimeDB
 Pixelart RPG with a few survival elements; hunger, heat/cold
 Zombieslaying with powerups
+
+Okay hear me out, what if we make a game about a schlimack that is searching for his victim. His victim, you may ask, is a person
+that entered a deal with the devil. He would be made filthy rich, with only one minor catch. To the end of his days, a slow moving, 
+immortal schlimack would follow him, wherever he goes. If the schlimack touches him, he is dead. YOU ARE THE SCHLIMACK! 
