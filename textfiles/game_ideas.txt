@@ -1,0 +1,3 @@
+Massively Multipleplayer Online Roleplaying Game with the use of spacetimeDB
+Pixelart RPG with a few survival elements; hunger, heat/cold
+Zombieslaying with powerups
